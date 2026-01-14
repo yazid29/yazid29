@@ -1,9 +1,11 @@
 
 # Hello, I'm Ahmad Yazid Munif
 
-Currently I am a fresh graduate and have obtained a bachelor's degree in informatics engineering from Trunojoyo
-Madurese University. Throughout my studies till now, I've learned a lot more about software development, especially
-web-based software and dealing with data (databases). Python is my first language, exploring the front & back-end of the web. And I am interested in studying data analysis by looking at data that has now turned into a larger data set, so that a problem can be solved by finding patterns from the data, so that is a challenge for me.
+
+I'm a dedicated software engineer with over 3 years of experience, mainly focused on backend logic and building reliable, scalable applications. 
+Currently, I work as a Salesforce Developer, where I deal with business logic, integrations, and custom features. With a strong foundation in programming, I can adapt quickly to new technologies and languages. I
+continue to improve my full-stack skills, aiming to build end-to-end solutions that are clean, maintainable, and practical for real-world use. 
+I believe in continuous learning and teamwork, and I enjoy collaborating with others to deliver solutions that truly support business needs.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-yazid-munif/)](https://www.linkedin.com/in/ahmad-yazid-munif/)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://yazid29.github.io/)](https://yazid29.github.io/)
